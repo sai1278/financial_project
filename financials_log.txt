@@ -1,0 +1,46 @@
+2025-11-21 09:32:25,318 - INFO - Fetching data for Company ID: RELIANCE (Attempt 1)
+2025-11-21 09:32:32,554 - ERROR - ❌ Company ID RELIANCE not found.
+2025-11-21 09:32:32,555 - INFO - Fetching data for Company ID: TCS (Attempt 1)
+2025-11-21 09:32:33,770 - ERROR - ❌ Company ID TCS not found.
+2025-11-21 09:32:33,772 - INFO - Fetching data for Company ID: HDFCBANK (Attempt 1)
+2025-11-21 09:32:35,237 - ERROR - ❌ Company ID HDFCBANK not found.
+2025-11-21 09:32:35,239 - INFO - Fetching data for Company ID: ICICIBANK (Attempt 1)
+2025-11-21 09:32:43,378 - WARNING - ⏳ Timeout for ICICIBANK (Attempt 1)
+2025-11-21 09:32:48,384 - INFO - Fetching data for Company ID: ICICIBANK (Attempt 2)
+2025-11-21 09:32:49,713 - ERROR - ❌ Company ID ICICIBANK not found.
+2025-11-21 09:32:49,713 - INFO - Fetching data for Company ID: INFY (Attempt 1)
+2025-11-21 09:32:51,868 - ERROR - ❌ Company ID INFY not found.
+2025-11-21 09:32:51,870 - INFO - Fetching data for Company ID: ITC (Attempt 1)
+2025-11-21 09:32:52,975 - ERROR - ❌ Company ID ITC not found.
+2025-11-21 09:32:52,978 - INFO - Fetching data for Company ID: KOTAKBANK (Attempt 1)
+2025-11-21 09:32:54,037 - ERROR - ❌ Company ID KOTAKBANK not found.
+2025-11-21 09:32:54,039 - INFO - Fetching data for Company ID: LT (Attempt 1)
+2025-11-21 09:32:55,324 - ERROR - ❌ Company ID LT not found.
+2025-11-21 09:32:55,327 - INFO - Fetching data for Company ID: SBIN (Attempt 1)
+2025-11-21 09:32:56,339 - ERROR - ❌ Company ID SBIN not found.
+2025-11-21 09:32:56,341 - INFO - Fetching data for Company ID: BHARTIARTL (Attempt 1)
+2025-11-21 09:32:57,373 - ERROR - ❌ Company ID BHARTIARTL not found.
+2025-11-21 09:32:57,376 - INFO - Fetching data for Company ID: HINDUNILVR (Attempt 1)
+2025-11-21 09:33:08,403 - WARNING - ⏳ Timeout for HINDUNILVR (Attempt 1)
+2025-11-21 09:33:13,407 - INFO - Fetching data for Company ID: HINDUNILVR (Attempt 2)
+2025-11-21 09:33:21,789 - WARNING - ⏳ Timeout for HINDUNILVR (Attempt 2)
+2025-11-21 09:33:26,797 - INFO - Fetching data for Company ID: HINDUNILVR (Attempt 3)
+2025-11-21 09:33:28,225 - ERROR - ❌ Company ID HINDUNILVR not found.
+2025-11-21 09:33:28,225 - INFO - Fetching data for Company ID: AXISBANK (Attempt 1)
+2025-11-21 09:33:29,389 - ERROR - ❌ Company ID AXISBANK not found.
+2025-11-21 09:33:29,390 - INFO - Fetching data for Company ID: MARUTI (Attempt 1)
+2025-11-21 09:33:30,770 - ERROR - ❌ Company ID MARUTI not found.
+2025-11-21 09:33:30,772 - INFO - Fetching data for Company ID: BAJFINANCE (Attempt 1)
+2025-11-21 09:33:32,488 - ERROR - ❌ Company ID BAJFINANCE not found.
+2025-11-21 09:33:32,490 - INFO - Fetching data for Company ID: HCLTECH (Attempt 1)
+2025-11-21 09:41:55,912 - INFO - [NSE] Fetching financials for RELIANCE (Attempt 1)
+2025-11-21 09:42:11,422 - ERROR - 💥 NSE fetch error RELIANCE: HTTPSConnectionPool(host='www.nseindia.com', port=443): Read timed out. (read timeout=10)
+2025-11-21 09:42:14,434 - INFO - [NSE] Fetching financials for RELIANCE (Attempt 2)
+2025-11-21 09:42:24,834 - ERROR - 💥 NSE fetch error RELIANCE: HTTPSConnectionPool(host='www.nseindia.com', port=443): Read timed out. (read timeout=10)
+2025-11-21 09:42:25,966 - INFO - [NSE] Fetching financials for RELIANCE (Attempt 3)
+2025-11-21 09:42:40,590 - ERROR - 💥 NSE fetch error RELIANCE: HTTPSConnectionPool(host='www.nseindia.com', port=443): Read timed out. (read timeout=10)
+2025-11-21 09:42:43,591 - INFO - [SCREENER] Fetching fallback data for RELIANCE
+2025-11-21 09:42:46,982 - INFO - [SCREENER] Fetching fallback data for RELIANCE
+2025-11-21 09:42:50,331 - INFO - [SCREENER] Fetching fallback data for RELIANCE
+2025-11-21 09:42:53,709 - ERROR - 🚫 Unable to fetch any financial data for RELIANCE
+2025-11-21 09:42:53,714 - INFO - [NSE] Fetching financials for TCS (Attempt 1)
